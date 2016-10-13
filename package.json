@@ -10,7 +10,8 @@
     "test:browser": "budo --css test/index.css test/index.js"
   },
   "files": [
-    "./index.js"
+    "./index.js",
+    "./weakmap.js"
   ],
   "repository": {
     "type": "git",
