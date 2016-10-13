@@ -9,10 +9,6 @@
     "test": "budo --css test/index.css test/index.js",
     "test:browser": "budo --css test/index.css test/index.js"
   },
-  "files": [
-    "./index.js",
-    "./weakmap.js"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/dfcreative/draggy"
