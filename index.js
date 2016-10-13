@@ -4,7 +4,7 @@
  * @module draggy
  */
 
-var WeakMap = window.WeakMap = require('weakmap');
+var WeakMap = window.WeakMap = require('weak-map');
 
 //work with css
 var css = require('mucss/css');
